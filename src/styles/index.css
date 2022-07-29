@@ -16,29 +16,21 @@
     border-radius: 10px;
 }
 
-.redlight {
+.light {
     position: relative;
     margin:25px 15px 5px 15px;
     width: 50px;
     height: 50px;
-    background-color:darkred;
     border-radius: 50%;
 }
+    .red{background-color: red;}
+    .yellow{background-color: yellow;}
+    .green{background-color: green;}
+    .selected{box-shadow: rgba(247, 255, 94, 0.447);}
 
-.yellowlight {
-    position: relative;
-    margin:25px 15px 5px 15px;
-    width: 50px;
-    height: 50px;
-    background-color:darkgoldenrod;
-    border-radius: 50%;
-}
 
-.greenlight {
-    position: relative;
-    margin:25px 15px 5px 15px;
-    width: 50px;
-    height: 50px;
-    background-color: darkgreen;
-    border-radius: 50%;
-}
+
+
+
+
+
